@@ -1,2 +1,2 @@
-# chatbot
-A JavaScript chatbot.
+# A chatbot that pops up when you enter a website. Coded in JavaScript.
+
